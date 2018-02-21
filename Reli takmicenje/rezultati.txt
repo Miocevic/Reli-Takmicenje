@@ -1,0 +1,7 @@
+
+REZULTATI TAKMICENJA:
+
+IME TAKMICARA        AUTOMOBIL                   UKUPNO VREME               BROJ POENA
+
+marko              sadadsas     9h : 12m : 16s       68 
+nikola              asdasdad     5h : 7m : 10s       43 

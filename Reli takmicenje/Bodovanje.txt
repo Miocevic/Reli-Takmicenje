@@ -1,0 +1,13 @@
+
+Nacin bodovanja svake trke je sledeci:
+
+1) Pobednik trke dobija 25 bodova.
+2) Vozac koji je stigao 2. na cilj dobija 18 bodova.
+3) Vozac koji je stigao 3. na cilj dobija 15 bodova.
+4) Vozac koji je stigao 4. na cilj dobija 12 bodova.
+5) Vozac koji je stigao 5. na cilj dobija 10 bodova.
+6) Vozac koji je stigao 6. na cilj dobija 8 bodova.
+7) Vozac koji je stigao 7. na cilj dobija 6 bodova.
+8) Vozac koji je stigao 8. na cilj dobija 4 boda.
+9) Vozac koji je stigao 9. na cilj dobija 2 boda.
+10) Vozac koji je stigao 10. na cilj dobija 1 bod.
